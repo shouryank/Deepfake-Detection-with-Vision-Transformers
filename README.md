@@ -10,9 +10,6 @@ This project detects deepfake videos using a transformer-based model. It organiz
 | `split_videos_train_test_with_metadata.py` | Splits videos into train/test sets, preserves metadata, and moves selected videos.           |
 | `deit_unmasking_optimized.py`            | Runs deepfake detection on videos, outputs predictions and attention regions.                |
 
-> **Note:**  
-> `video_shifter.py` (basic train/test split script) is not recommended for inclusion, as its functionality is covered and improved by `split_videos_train_test_with_metadata.py`.
-
 ## Usage
 
 1. **Organize Videos:**  
