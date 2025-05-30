@@ -1,5 +1,7 @@
 # Deepfake Detection Pipeline
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+
 This project detects deepfake videos using a transformer-based model. It organizes and splits video data, then runs detection and attention-based explanation.
 
 ## File Descriptions
